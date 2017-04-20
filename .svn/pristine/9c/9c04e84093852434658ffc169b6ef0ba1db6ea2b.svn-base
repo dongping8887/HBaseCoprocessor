@@ -1,0 +1,8 @@
+es.batch.size=25000
+cluster_name=es_pbdnode194
+address=172.16.61.192
+port=9300
+shards=12
+replicas=0
+hbase.buffer.size=120*1024*1024
+es_switch=true

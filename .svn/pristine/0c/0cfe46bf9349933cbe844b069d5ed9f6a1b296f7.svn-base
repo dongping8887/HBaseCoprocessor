@@ -1,0 +1,9 @@
+es.batch.size=999999
+cluster_name=es_pbdnode42
+address=172.16.61.42
+port=9300
+shards=12
+replicas=1
+hbase.buffer.size=120*1024*1024
+es_switch=true
+zookeeper.server=172.16.61.42:2181
